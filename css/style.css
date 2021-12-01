@@ -1,0 +1,13 @@
+body {
+    color: blue;
+    text-align: center;
+    background-image: src:"https://wallup.net/wp-content/uploads/2015/12/6360-trees-anime-manga-forest.jpg";
+}
+
+h1 {
+    text-color: blue;
+}
+
+.getAnimeFacts {
+    position: absolute;
+}
